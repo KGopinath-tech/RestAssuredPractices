@@ -1,0 +1,12 @@
+{
+  "id": "432",
+  "firstname": "Suresh",
+  "lastname": "Raina",
+  "zipcode": "SureshRaina@gamil.com",
+  "Hobbies": ["Golf","Trekking"],
+  "favPlace": {
+    "North": "Himachal Pradesh",
+    "Center": "Hydrabath",
+    "South": ["Chennai", "Kerala"]
+  }
+}
